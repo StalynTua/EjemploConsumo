@@ -15,6 +15,8 @@ namespace EjemploConsumo
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            //hola dianii
+            
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
